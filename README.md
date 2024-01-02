@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ## How to run it
 ### Data preparation
 
-The text data and our augmentation data are already put in  `data/MIntRec`, for the video and audio data, download the MIntRec dataset: [Google Drive](https://drive.google.com/drive/folders/18iLqmUYDDOwIiiRbgwLpzw76BD62PK0p?usp=sharing) or [BaiduYun Disk](https://pan.baidu.com/s/1xWcrNL-lUiUSLklnozyQvQ) (code：95lo), and put audio data `audio_feats.pkl`, video data `video_feats.pkl` into path `data/MIntRec`
+The text data and our augmentation data are already put in  `data/MIntRec`, for the video and audio data, download the [MIntRec](https://github.com/thuiar/MIntRec) dataset: [Google Drive](https://drive.google.com/drive/folders/18iLqmUYDDOwIiiRbgwLpzw76BD62PK0p?usp=sharing) or [BaiduYun Disk](https://pan.baidu.com/s/1xWcrNL-lUiUSLklnozyQvQ) (code：95lo), and put audio data `audio_feats.pkl`, video data `video_feats.pkl` into path `data/MIntRec`
 
 ### Run
 
