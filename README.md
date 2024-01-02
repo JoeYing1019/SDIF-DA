@@ -57,9 +57,14 @@ python run.py --gpu_id '0' --train --config_file_name 'sdif.py' > SDIF_DA_twenty
 If you find this project useful for your research, please consider citing the following paper:
 
 ```
-
+@misc{huang2023sdifda,
+      title={SDIF-DA: A Shallow-to-Deep Interaction Framework with Data Augmentation for Multi-modal Intent Detection}, 
+      author={Shijue Huang and Libo Qin and Bingbing Wang and Geng Tu and Ruifeng Xu},
+      year={2023},
+      eprint={2401.00424},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
-
-
 
 If you have any question, please issue the project or email [Shijue Huang](mailto:joehsj310@gmail.com) and we will reply you soon.
